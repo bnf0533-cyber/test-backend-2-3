@@ -72,3 +72,6 @@ docker compose up mongo
 
 5. הרצת השרת:
    npm start
+
+6. הרצת טסטים:
+   npm test
